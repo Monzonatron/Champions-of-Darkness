@@ -17,3 +17,7 @@ Artwork that does not look like it was done by a toddler in MSPaint is not creat
 # Controls
 I have no idea, seriously.
 I booted it up and took a look: Xbox controller works as primary input, Right Trigger is to Attack primary, the four buttons use alternate abilities (some abilities are buffs and have no visual cue). D-Pad and Left Stick work as movement. Tab to get out of the inventory menu, escape possibly closes the game or opens inventory, so does tab. Enter allows input into chat.
+
+# Download
+The executable with content can be downloaded here:
+http://www.mediafire.com/file/zs9kama0bw2maqw/Monzon_SeniorProject_Executable.zip/file
