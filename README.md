@@ -1,6 +1,8 @@
 # Champions-of-Darkness
 My Senior Project for Ramapo College in 2012 - I got an A!
 
+Champions of Darkness is a pseudo-Diablo-like game (aRPG) in a raw and amateur form. It was "completed" in about 3-4 months of initial draft and design. It features bad hotbar abilities, gimmicky looting, light rpg mechanics, and a chat system to keep yourself and only yourself company. I love it!
+
 # Requirements
 This project requires Microsoft XNA 4.0 Redistributable to run the executable file. The project has an incompatible version with my Visual Studio and therefore I cannot compile it - but a separate download is available.
 
